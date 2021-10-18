@@ -6,7 +6,7 @@ const App = () => {
       id: "e1",
       title: "Car Insurance",
       amount: 294.67,
-      date: new Date(2021, 2, 0),
+      date: new Date(2020, 2, 0),
     },
     {
       id: "e2",
